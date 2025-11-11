@@ -2,8 +2,14 @@
 DBMS Mini project 
 
 STUDENT DATABASE MANAGEMENT SYSTEM
+
+
 Abstract
-The Student Database Management System (DBMS) is a comprehensive web-based mini project developed using Python Flask and SQLite. It demonstrates database handling, relational joins, and CRUD operations across Students, Courses, and Enrollments modules. Flask provides the backend routes, SQLite stores data, and Bootstrap ensures a modern responsive interface. The project showcases complete integration of backend logic, frontend design, and relational database management within a single cohesive application.
+The Student Database Management System (DBMS) is a comprehensive web-based mini project developed using Python Flask and SQLite. It demonstrates database handling, relational joins, and CRUD operations across 
+Students, Courses, and Enrollments modules. Flask provides the backend routes, SQLite stores data, and Bootstrap ensures a modern responsive interface. The project showcases complete integration of backend logic, 
+frontend design, and relational database management within a single cohesive application.
+
+
 Technology Stack
 • Backend: Python (Flask Framework)
 • Database: SQLite
